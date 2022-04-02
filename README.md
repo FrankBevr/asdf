@@ -1,3 +1,15 @@
+# Random Markdown
+
+1. Adding Lines to a File
+2. `:w`
+3. `:G`
+4. Press `s` for stage
+5. Use the floating Terminal to initalize commitizen
+6. Follow the instructions
+7. Close the Floating Terminal
+8. `Git push`
+9. Enough Work for today, zip a coffe ☕
+
 # <span style="color: #77f">Hello QWERT</span>
 
 **It is really bold here**
