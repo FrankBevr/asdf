@@ -7,7 +7,7 @@
 5. Use the floating Terminal to initalize commitizen
 6. Follow the instructions
 7. Close the Floating Terminal
-8. `Git push`
+8. `Git push`| width=100
 9. Enough Work for today, zip a coffe ☕
 
 # <span style="color: #77f">Hello QWERT</span>
