@@ -12,7 +12,11 @@
 # A new line <3
 
 # Thats a change from someonelese
+<<<<<<< HEAD
 
 # another line 
 another another line
 another another line
+=======
+Thats a beautiful **LINE**
+>>>>>>> master
