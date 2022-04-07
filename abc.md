@@ -7,3 +7,6 @@
 |Syntax|Description|
 |------|-----------|
 |Blue | Green|
+
+
+# A new line <3
