@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-=======
-# Hello ABC even  ohh there is  way more conflict more stuff not so much and I am Frank
->>>>>>> conf
+## Hi Mom
 
+* Todo Getränke trinken
 
-Thats a beautiful and not so beautiful line **LINE**
+- [x] Hallo
 
-
-# Thats a new push line!
+|Syntax|Description|
+|------|-----------|
+|Blue | Green|
